@@ -40,7 +40,7 @@ As a best practice, the underlying assumptions of the linear model were tested:
 For every **1 hectare** increase in forest land, the model predicts an average increase of approximately **239.96 cubic meters** in growing stock. This insight can be utilized by forestry departments for strategic planning and budgeting.
 
 ## How to Run
-1. Clone this repository: `git clone https://github.com/YourUsername/YourRepoName.git`
+1. Clone this repository: `git clone https://github.com/mustafayoruk/forest_ecosystem_regression.git`
 2. Ensure you have the required libraries installed: `pip install pandas numpy statsmodels scikit-learn scipy openpyxl`
 3. Open `forest_ecosystem_regression.ipynb` in Jupyter Notebook or Google Colab and run the cells.
 
